@@ -26,8 +26,8 @@
 
 ## <br />
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ujinjinjin&show_icons=true&hide_border=true&count_private=true&theme=bear" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujinjinjin&layout=compact&theme=bear" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ujinjinjin&show_icons=true&hide_border=true&count_private=true&theme=vue" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujinjinjin&layout=compact&theme=vue" />
 
 [twitter]: https://twitter.com/ujinjinjin/
 [linkedin]: https://www.linkedin.com/in/ujinjinjin/
