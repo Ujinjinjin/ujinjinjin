@@ -27,7 +27,7 @@
 ## <br />
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ujinjinjin&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujinjinjin&layout=compact&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujinjinjin&layout=compact&hide_border=true&theme=tokyonight" />
 
 [twitter]: https://twitter.com/ujinjinjin/
 [linkedin]: https://www.linkedin.com/in/ujinjinjin/
