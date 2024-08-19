@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on personal password manager
 - 🌱 I’m currently learning network programming and just a little bit of game development
-- 😄 Pronouns: he / him / his
 
 ### My contacts:
 
